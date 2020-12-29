@@ -3,25 +3,25 @@
 My name is Marcin Mitura and I'm an IT student. I'm from Poland, slowly getting into programming world. On my GitHub, you can find various types of projects I made, <a href="https://github.com/SK-2019/php-sql-wprowadzenie-Mitura-Marcin">some basic HTML/CSS + PHP</a> (beginning a PHP file with HTML code as a base can't be more fun!), <a href="https://github.com/SK-2019/php-sql-wprowadzenie-Mitura-Marcin">some of my tries in Blender</a> or even <a href="https://github.com/mavethee?tab=repositories&q=Hackintosh">a rise and fall of a Hackintosh magic!</a> <img src="https://raw.githubusercontent.com/mavethee/mavethee/master/Icons/openthink.png" width="30px">
 
 ## My current workspace (it's a shame, ikr):
-<img align="center" src="https://raw.githubusercontent.com/mavethee/mavethee/master/Icons/dell.svg" width="30px"> DELL Inspiron 15 7000 Gaming</img>
+<img align="center" src="https://raw.githubusercontent.com/mavethee/mavethee/b2f1378296941129c0f30284876c8c0dc17cd3e9/Icons/dell.svg" width="30px"> DELL Inspiron 15 7000 Gaming</img>
 
-Operating System: <img align="center" src="https://raw.githubusercontent.com/mavethee/mavethee/master/Icons/ubuntu.svg" width="30px"> Ubuntu 20.04 LTS</img>
+Operating System: <img align="center" src="https://raw.githubusercontent.com/mavethee/mavethee/b2f1378296941129c0f30284876c8c0dc17cd3e9/Icons/ubuntu.svg" width="30px"> Ubuntu 20.04 LTS</img>
 
-CPU: <img align="center" src="https://raw.githubusercontent.com/mavethee/mavethee/master/Icons/intel.svg" width="30px"> 2,5GHz Quadcore Intel Core i5-7300HQ</img>
+CPU: <img align="center" src="https://raw.githubusercontent.com/mavethee/mavethee/b2f1378296941129c0f30284876c8c0dc17cd3e9/Icons/intel.svg" width="30px"> 2,5GHz Quadcore Intel Core i5-7300HQ</img>
 
-GPU: <img align="center" src="https://raw.githubusercontent.com/mavethee/mavethee/master/Icons/nvidia.svg" width="30px"> 4GB DELL GTX 1050</img>
+GPU: <img align="center" src="https://raw.githubusercontent.com/mavethee/mavethee/b2f1378296941129c0f30284876c8c0dc17cd3e9/Icons/nvidia.svg" width="30px"> 4GB DELL GTX 1050</img>
 
 RAM: 16GB DDR4 2400MHz SODIMM
 
-Storage: <img align="center" src="https://raw.githubusercontent.com/mavethee/mavethee/master/Icons/nvidia.svg" width="30px"> Samsung Portable SSD T5 250GB
+Storage: <img align="center" src="https://raw.githubusercontent.com/mavethee/mavethee/b2f1378296941129c0f30284876c8c0dc17cd3e9/Icons/samsung.svg" width="30px"> Samsung Portable SSD T5 250GB
 
-<img align="center" src="https://raw.githubusercontent.com/mavethee/mavethee/master/Icons/apple.svg" width="30px"> Hackintosh Pro 15" 2017</img>
+<img align="center" src="https://raw.githubusercontent.com/mavethee/mavethee/b2f1378296941129c0f30284876c8c0dc17cd3e9/Icons/apple.svg" width="30px"> Hackintosh Pro 15" 2017</img>
 
-Operating System: <img align="center" src="https://raw.githubusercontent.com/mavethee/mavethee/master/Icons/ubuntu.svg" width="30px"> macOS 11.2 Big Sur</img>
+Operating System: <img align="center" src="https://raw.githubusercontent.com/mavethee/mavethee/b2f1378296941129c0f30284876c8c0dc17cd3e9/Icons/apple.svg" width="30px"> macOS 11.2 Big Sur</img>
 
-CPU: <img align="center" src="https://raw.githubusercontent.com/mavethee/mavethee/master/Icons/intel.svg" width="30px"> 2,5GHz Quadcore Intel Core i5</img>
+CPU: <img align="center" src="https://raw.githubusercontent.com/mavethee/mavethee/b2f1378296941129c0f30284876c8c0dc17cd3e9/Icons/intel.svg" width="30px"> 2,5GHz Quadcore Intel Core i5</img>
 
-GPU: <img align="center" src="https://raw.githubusercontent.com/mavethee/mavethee/master/Icons/intel.svg" width="30px"> Intel HD Graphics 630</img>
+GPU: <img align="center" src="https://raw.githubusercontent.com/mavethee/mavethee/b2f1378296941129c0f30284876c8c0dc17cd3e9/Icons/intel.svg" width="30px"> Intel HD Graphics 630</img>
 
 RAM: 16GB DDR4 2400MHz SODIMM
 
