@@ -15,7 +15,7 @@ RAM: 16GB DDR4 2400MHz SODIMM
 
 Storage: <img align="center" src="https://raw.githubusercontent.com/mavethee/mavethee/b2f1378296941129c0f30284876c8c0dc17cd3e9/Icons/samsung.svg" width="30px"> Samsung Portable SSD T5 250GB
 
-<img align="center" src="https://raw.githubusercontent.com/mavethee/mavethee/b2f1378296941129c0f30284876c8c0dc17cd3e9/Icons/apple.svg" width="30px"> Hackintosh Pro 15" 2017</img>
+<img align="center" src="https://raw.githubusercontent.com/mavethee/mavethee/b2f1378296941129c0f30284876c8c0dc17cd3e9/Icons/apple.svg" width="30px"> Hackbook Pro 15" 2017</img>
 
 Operating System: <img align="center" src="https://raw.githubusercontent.com/mavethee/mavethee/b2f1378296941129c0f30284876c8c0dc17cd3e9/Icons/apple.svg" width="30px"> macOS 11.2 Big Sur</img>
 
