@@ -44,6 +44,8 @@ Storage: ADATA SX8200PNP 256GB
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mavethee&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="mavethee's GitHub Stats" />
 </a>
 
+## Social media:
+
 <!-- links to your social media accounts -->
 
 Twitter: https://twitter.com/mavethee
