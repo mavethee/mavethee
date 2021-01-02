@@ -5,7 +5,7 @@ My name is Marcin Mitura and I'm an IT student. I'm from Poland, slowly getting 
 ## My current workspace (it's a shame, ikr):
 <img align="center" src="https://raw.githubusercontent.com/mavethee/mavethee/b2f1378296941129c0f30284876c8c0dc17cd3e9/Icons/dell.svg" width="30px"> DELL Inspiron 15 7000 Gaming</img>
 
-Operating System: <img align="center" src="https://raw.githubusercontent.com/mavethee/mavethee/b2f1378296941129c0f30284876c8c0dc17cd3e9/Icons/ubuntu.svg" width="30px"> Ubuntu 20.04 LTS</img>
+Operating System: <img align="center" src="https://raw.githubusercontent.com/mavethee/mavethee/b2f1378296941129c0f30284876c8c0dc17cd3e9/Icons/ubuntu.svg" width="30px"> Ubuntu 20.10</img>
 
 CPU: <img align="center" src="https://raw.githubusercontent.com/mavethee/mavethee/b2f1378296941129c0f30284876c8c0dc17cd3e9/Icons/intel.svg" width="30px"> 2,5GHz Quadcore Intel Core i5-7300HQ</img>
 
