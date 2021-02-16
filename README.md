@@ -2,30 +2,17 @@
 
 My name is Marcin Mitura and I'm an IT student. I'm from Poland, slowly getting into programming world. On my GitHub, you can find various types of projects I made, <a href="https://github.com/SK-2019/php-sql-wprowadzenie-Mitura-Marcin">some basic HTML/CSS + PHP</a> (beginning a PHP file with HTML code as a base can't be more fun!), <a href="https://github.com/SK-2019/php-sql-wprowadzenie-Mitura-Marcin">some of my tries in Blender</a> or even <a href="https://github.com/mavethee?tab=repositories&q=Hackintosh">a rise and fall of a Hackintosh magic!</a> <img src="https://raw.githubusercontent.com/mavethee/mavethee/master/Icons/openthink.png" width="30px">
 
-## My current workspace (it's a shame, ikr):
-<img align="center" src="https://raw.githubusercontent.com/mavethee/mavethee/b2f1378296941129c0f30284876c8c0dc17cd3e9/Icons/dell.svg" width="30px"> DELL Inspiron 15 7000 Gaming</img>
+## My current workspace:
 
-Operating System: <img align="center" src="https://raw.githubusercontent.com/mavethee/mavethee/b2f1378296941129c0f30284876c8c0dc17cd3e9/Icons/ubuntu.svg" width="30px"> Ubuntu 20.10</img>
+<img align="center" src="https://raw.githubusercontent.com/mavethee/mavethee/b2f1378296941129c0f30284876c8c0dc17cd3e9/Icons/apple.png" width="30px"> MacBook Air 13" (M1, late 2020)</img>
 
-CPU: <img align="center" src="https://raw.githubusercontent.com/mavethee/mavethee/b2f1378296941129c0f30284876c8c0dc17cd3e9/Icons/intel.svg" width="30px"> 2,5GHz Quadcore Intel Core i5-7300HQ</img>
+CPU: 3,2GHz Octacore Apple M1
 
-GPU: <img align="center" src="https://raw.githubusercontent.com/mavethee/mavethee/b2f1378296941129c0f30284876c8c0dc17cd3e9/Icons/nvidia.svg" width="30px"> 4GB DELL GTX 1050</img>
+GPU: Apple M1's octacore integrated GPU
 
-RAM: 16GB DDR4 2400MHz SODIMM
+RAM: 16GB 4266MHz LPDDR4
 
-Storage: <img align="center" src="https://raw.githubusercontent.com/mavethee/mavethee/b2f1378296941129c0f30284876c8c0dc17cd3e9/Icons/samsung.svg" width="30px"> Samsung Portable SSD T5 250GB
-
-<img align="center" src="https://raw.githubusercontent.com/mavethee/mavethee/b2f1378296941129c0f30284876c8c0dc17cd3e9/Icons/apple.svg" width="30px"> Hackbook Pro 15" 2017</img>
-
-Operating System: <img align="center" src="https://raw.githubusercontent.com/mavethee/mavethee/b2f1378296941129c0f30284876c8c0dc17cd3e9/Icons/apple.svg" width="30px"> macOS 11.2 Big Sur</img>
-
-CPU: <img align="center" src="https://raw.githubusercontent.com/mavethee/mavethee/b2f1378296941129c0f30284876c8c0dc17cd3e9/Icons/intel.svg" width="30px"> 2,5GHz Quadcore Intel Core i5</img>
-
-GPU: <img align="center" src="https://raw.githubusercontent.com/mavethee/mavethee/b2f1378296941129c0f30284876c8c0dc17cd3e9/Icons/intel.svg" width="30px"> Intel HD Graphics 630</img>
-
-RAM: 16GB DDR4 2400MHz SODIMM
-
-Storage: ADATA SX8200PNP 256GB
+Storage: APPLE SSD AP0512Q 512GB / Samsung Portable T5 250GB
 
 ## Languages I work with:
 
