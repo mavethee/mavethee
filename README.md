@@ -1,10 +1,10 @@
 ## Hi, there! <img src="https://raw.githubusercontent.com/mavethee/mavethee/master/Icons/wave.gif" width="30px">
 
-My name is Marcin Mitura and I'm an IT student. I'm from Poland, slowly getting into programming world. On my GitHub, you can find various types of projects I made, <a href="https://github.com/SK-2019/php-sql-wprowadzenie-Mitura-Marcin">some basic HTML/CSS + PHP</a> (beginning a PHP file with HTML code as a base can't be more fun!), <a href="https://github.com/SK-2019/php-sql-wprowadzenie-Mitura-Marcin">some of my tries in Blender</a> or even <a href="https://github.com/mavethee?tab=repositories&q=Hackintosh">a rise and fall of a Hackintosh magic!</a> <img src="https://raw.githubusercontent.com/mavethee/mavethee/master/Icons/openthink.png" width="30px">
+My name is Marcin Mitura and I'm an IT student. I'm from Poland, slowly getting into programming world. On my GitHub, you can find various types of projects I made, <a href="https://github.com/SK-2019/php-sql-wprowadzenie-Mitura-Marcin">some basic HTML/CSS + PHP</a> (beginning a PHP file with HTML code as a base can't be more fun!), <a href="https://github.com/SK-2019/php-sql-wprowadzenie-Mitura-Marcin">some of my tries in Blender</a> or even <a href="https://github.com/mavethee?tab=repositories&q=Hackintosh">a rise and fall of a Hackintosh magic!</a> <img src="https://raw.githubusercontent.com/mavethee/mavethee/master/Icons/openthink.png" width="20px">
 
 ## My current workspace:
 
-### MacBook Air 13" (M1, late 2020)
+### MacBook Air 13" (M1, Late 2020)
 
 #### CPU: 3,2GHz Octacore Apple M1
 
