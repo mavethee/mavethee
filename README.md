@@ -4,15 +4,15 @@ My name is Marcin Mitura and I'm an IT student. I'm from Poland, slowly getting 
 
 ## My current workspace:
 
-<img align="center" src="https://raw.githubusercontent.com/mavethee/mavethee/b2f1378296941129c0f30284876c8c0dc17cd3e9/Icons/apple.png" width="30px"> MacBook Air 13" (M1, late 2020)</img>
+### MacBook Air 13" (M1, late 2020)
 
-CPU: 3,2GHz Octacore Apple M1
+#### CPU: 3,2GHz Octacore Apple M1
 
-GPU: Apple M1's octacore integrated GPU
+#### GPU: Apple M1's octacore integrated GPU
 
-RAM: 16GB 4266MHz LPDDR4
+#### RAM: 16GB 4266MHz LPDDR4
 
-Storage: APPLE SSD AP0512Q 512GB / Samsung Portable T5 250GB
+#### Storage: APPLE SSD AP0512Q 512GB / Samsung Portable T5 250GB
 
 ## Languages I work with:
 
